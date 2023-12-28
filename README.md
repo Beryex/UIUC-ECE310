@@ -1,5 +1,5 @@
 # ECE 310: Digital Signal Processing @ UIUC Fall 2023 by Bryan Wang
-[Bryan Wang](WangBoyao.02@outlook.com) | ECE 310: Digital Signal Processing, Fall 2023  
+[Bryan Wang](https://github.com/Beryex) | ECE 310: Digital Signal Processing, Fall 2023  
 Instructor:   
 [Minh N. Do](https://minhdo.ece.illinois.edu/) @ University of Illinois Urbana-Champaign Institute  
 
